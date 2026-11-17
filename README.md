@@ -20,7 +20,7 @@ O teste tem duas partes:
 
 ## Parte 1 – Questionário de segurança
 
-Responda às cinco questões no arquivo **`respostas.md`**, que já vem neste pacote.
+Responda às cinco questões no arquivo **`respostas.md`**, que está neste repositório.
 
 ### Questão 1 – Phishing
 Um colaborador recebe um e-mail que parece ser do banco da empresa, dizendo que a conta será bloqueada em 24 horas se ele não confirmar seus dados pelo link enviado. Quais sinais indicam que pode ser um golpe, e o que você orientaria esse colaborador a fazer?
